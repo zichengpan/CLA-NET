@@ -1,4 +1,3 @@
-#python ./train.py --data disease_ICLR --use_maskcov --epoch 200 --backbone resnet50 --cls_2 --detail cub_model1 --tb 8
 python ./train.py --data COTTON --use_maskcov --epoch 200 --backbone resnet50 --cls_2 --detail cub_model1 --tb 8
 #
 #python ./train.py --data R1 --use_maskcov --epoch 200 --backbone resnet50 --cls_2 --detail cub_model1 --tb 8
